@@ -6,7 +6,7 @@ Added 3 powers the horse that you can ride mountans with, The ship to sail on wa
 
 Changed the map to be Weighted graph to the enemies now calculate the target fastest path with condition of weight using dijakstra algorithm.
 
-# Weights:
+## Weights:
 
 Grass:1, bushes:2, hills:3
 
